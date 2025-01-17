@@ -81,6 +81,10 @@ menu = st.sidebar.selectbox("📂 Menu", [
     "ℹ️ Info"
 ])
 
+from datetime import datetime
+import streamlit as st
+import numpy as np
+
 # --- Beranda ---
 if menu == "🏠 Beranda":
     st.title("🍎 FRESH CHECK - Pendeteksi Kelayakan Konsumsi Makanan")
