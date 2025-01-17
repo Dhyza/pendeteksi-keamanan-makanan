@@ -65,7 +65,7 @@ st.markdown(f"""
 # --- Efek Animasi Balon dan Salju ---
 def animation_effect():
     st.balloons()
-    for _ in range(30):
+    for _ in range(5):
         st.markdown('<div class="snowflake">❄️</div>', unsafe_allow_html=True)
 
 
