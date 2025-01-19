@@ -90,7 +90,7 @@ if menu == "🏠 Beranda":
     st.title("🍎 FRESH CHECK - Pendeteksi Kelayakan Konsumsi Makanan")
 
     # Gambar lebih menarik mencakup semua kategori makanan
-    st.image("https://png.pngtree.com/png-clipart/20220125/original/pngtree-nut-food-png-image_7222167.png", width=700)
+    st.image("https://www.ybkb.or.id/wp-content/uploads/2024/03/shopping-bag-full-fresh-fruits-vegetables-with-assorted-ingredients-min-825x551_yUwnK.jpg")
 
     # Deskripsi aplikasi dengan ikon dan bullet point yang lebih menarik
     st.markdown("""
@@ -244,7 +244,7 @@ if menu == "🔍 Deteksi Perubahan Fisik Makanan":
         - Muncul bercak hitam atau jamur.  
         - Aroma asam atau bau tidak sedap.  
         """)
-        st.image("https://cdn.pixabay.com/photo/2018/07/01/00/13/apple-3516697_960_720.jpg", width=400, caption="Buah dengan tanda kerusakan")
+        st.image("https://unair.ac.id/wp-content/uploads/2021/12/Foto-oleh-Pinterests.jpg")
 
     elif kategori == "Sayur":
         st.subheader("🥦 Tanda Kerusakan pada Sayur")
@@ -254,7 +254,7 @@ if menu == "🔍 Deteksi Perubahan Fisik Makanan":
         - Muncul bercak busuk atau jamur.  
         - Aroma busuk atau asam.  
         """)
-        st.image("https://cdn.pixabay.com/photo/2017/08/30/23/15/vegetables-2698901_960_720.jpg", width=400, caption="Sayur yang mulai rusak")
+        st.image("https://st.depositphotos.com/1009322/3656/i/450/depositphotos_36569393-stock-photo-rotten-vegetables.jpg")
 
     elif kategori == "Susu & Produk Olahan":
         st.subheader("🥛 Tanda Kerusakan pada Susu & Produk Olahan")
@@ -264,7 +264,7 @@ if menu == "🔍 Deteksi Perubahan Fisik Makanan":
         - Rasa asam atau tidak segar.  
         - Warna berubah keruh atau kekuningan.  
         """)
-        st.image("https://cdn.pixabay.com/photo/2016/11/18/13/22/milk-1839999_960_720.jpg", width=400, caption="Susu yang mulai rusak")
+        st.image("https://asset.kompas.com/crops/Dp0ZM45tY7UdSOlPJ1uZxA2IyzM=/0x92:840x652/1200x800/data/photo/2023/11/06/654878358cf8a.png")
 
     elif kategori == "Roti & Kue":
         st.subheader("🍞 Tanda Kerusakan pada Roti & Kue")
@@ -273,7 +273,7 @@ if menu == "🔍 Deteksi Perubahan Fisik Makanan":
         - Tekstur menjadi keras atau lembek.  
         - Aroma apek atau asam.  
         """)
-        st.image("https://cdn.pixabay.com/photo/2016/12/27/18/25/mold-1939962_960_720.jpg", width=400, caption="Roti berjamur")
+        st.image("https://asset.kompas.com/crops/yswLRikqooU6_6Z31ZKjPJD0gbM=/73x31:935x605/750x500/data/photo/2022/09/24/632ed22643668.jpg")
 
     elif kategori == "Makanan Olahan":
         st.subheader("🥫 Tanda Kerusakan pada Makanan Olahan")
@@ -283,7 +283,7 @@ if menu == "🔍 Deteksi Perubahan Fisik Makanan":
         - Warna dan tekstur berubah.  
         - Adanya lapisan minyak atau berlendir.  
         """)
-        st.image("https://cdn.pixabay.com/photo/2016/05/06/14/31/can-1371160_960_720.jpg", width=400, caption="Kaleng makanan yang rusak")
+        st.image("https://radarlombok.co.id/wp-content/uploads/2017/06/F-TAK-LAYAK-696x549.jpg")
 
     st.markdown("---")
     st.info("💡 **Tips:** Simpan makanan sesuai anjuran agar lebih tahan lama dan terhindar dari kerusakan.")
