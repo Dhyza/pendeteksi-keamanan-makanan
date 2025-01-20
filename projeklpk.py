@@ -430,7 +430,7 @@ elif menu == "ℹ️ Info":
 
     - 👩‍💻 **Azzahra Sadrina Nadzifa (2350080)**
     - 👩‍💻 **Dhyza Aulia Shabirah (2350084)**
-    - 👩‍💻 **Diyah Theda Mufarrihah (2350085)** 
+    - 👩‍💻 **Diyan Theda Mufarrihah (2350085)** 
     - 👩‍💻 **Haija Nafiah (2350094)**
     - 👨‍💻 **Irsan Abdurrahman (2350100)**
 
