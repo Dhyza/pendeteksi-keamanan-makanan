@@ -1,7 +1,6 @@
 import streamlit as st
 from PIL import Image
 from datetime import datetime
-from tkinter import Tk
 
 # Konfigurasi halaman
 st.set_page_config(page_title="Food Freshness App", page_icon="🍎", layout="wide")
@@ -142,7 +141,6 @@ if menu == "🧮 Penilaian Kelayakan Makanan":
 
 # Menampilkan pilihan bahan makanan berdasarkan kategori yang dipilih
 if menu == "🧮 Penilaian Kelayakan Makanan":
-    email_pengguna = st.text_input("📧 Masukkan Email Anda untuk Notifikasi", "")
     perubahan_fisik = st.checkbox("⚠️ Apakah terdapat perubahan fisik pada makanan?", key="perubahan_fisik")
     
     if st.button("🔎 Cek Kelayakan"):
