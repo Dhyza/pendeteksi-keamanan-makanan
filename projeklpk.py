@@ -88,7 +88,7 @@ if menu == "🏠 Beranda":
     ### 🌟 Selamat Datang di **Pendeteksi Kelayakan Konsumsi Makanan**!  
     Aplikasi ini dirancang untuk membantu Anda mengonsumsi makanan yang **sehat** dan **aman** dengan fitur menarik berikut:
 
-    - 📅 **Pengecekan Tanggal Kedaluwarsa**: Pantau masa simpan makanan agar tetap aman.  
+    - 📅 **Pengecekan Kelayakan Makanan**: Pantau masa simpan makanan agar tetap aman.  
     """)
 
     # Catatan di bagian bawah
